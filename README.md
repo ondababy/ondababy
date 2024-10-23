@@ -1,38 +1,94 @@
-<h1 align="center">Hi, I'm Ondababy</h1> 
-<h3 align="center">Aspiring Web Developer</h3>
+<h1 align="center">🚀 Welcome, I'm Ondababy! 👨‍💻</h1> 
+<h3 align="center">Aspiring Web Developer | Tech Explorer</h3>
 
-<p align="center"> 
-  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="ondababy" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 </p>
 
-🌱 I’m currently learning MERN Stack
 
-<h3 align="left">🌐 Connect with me:</h3>
+
+<h2 align="center">⚡ About Me:</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cute+Masarap+Mapagkumbaba;Mabait,+Hays+Walang+Katulad;MERN+Stack+Explorer;" alt="Typing SVG" />
+</p>
+
+- 🌱 **Currently mastering**: MERN Stack and Web3 development.
+
+
+<h2 align="center">🌐 Connect with Me:</h2>
+
 <p align="center">
   <a href="https://instagram.com/drnphlp" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/adrianphilip.onda.1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:adrianonda373@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/adrian-philip-onda-b273a4254/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<h3 align="left">💻 Code Connoisseur:</h3>
+
+
+<h2 align="center">💻 My Tech Stack & Tools:</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,express,laravel,php,python,html,css,bootstrap,git,github,docker,vscode" />
 </p>
 
-<h3 align="left">📊 Most Used Languages:</h3>
+---
+
+<h2 align="center">⚙️ GitHub Stats:</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ondababy&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondababy&layout=compact&langs_count=10&theme=radical" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ondababy&theme=radical" alt="GitHub Streak Stats" />
+</div>
+
+
+
+<h2 align="center">🚀 Fun GitHub Achievements:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondababy&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ondababy&theme=matrix&margin-w=15&row=1&column=6" alt="GitHub Achievements" />
 </p>
 
+
+<h2 align="center">🛠️ My Projects:</h2>
+
+<p align="center">
+  <a href="https://github.com/ondababy/MERNApp-Project">
+    <img src="https://img.shields.io/badge/Project%201-MERN%20Stack-red?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ondababy/python-project">
+    <img src="https://img.shields.io/badge/Project%202-Python-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/ondababy/Laravel-Javascript-System">
+    <img src="https://img.shields.io/badge/Project%203-Laravel-red?style=for-the-badge"/>
+  </a>
+
+</p>
+
+<h2 align="center">🔥 Activity Graph:</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ondababy&theme=dracula&bg_color=0d1117&color=ff00ff&line=ffffff&point=ff00ff&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<h2 align="center">⚡ Recent GitHub Contributions:</h2>
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=ondababy"/>
+</p>
+
+<h2 align="center"></></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding%20with%20Passion-FFD700?style=for-the-badge&logo=heart" alt="Coding with Passion" />
+</p>
