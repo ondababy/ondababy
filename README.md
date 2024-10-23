@@ -10,7 +10,7 @@
 <h2 align="center">⚡ About Me:</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cute,+Masarap,+Mapagkumbaba;Mabait,+Hays+Walang+Katulad;MERN+Stack+Explorer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cute,+Masarap,+Mapagkumbaba,;Mabait,+Hays+Walang+Katulad;MERN+Stack+Explorer;" alt="Typing SVG" />
 </p>
 
 - 🌱 **Currently mastering**: MERN Stack and Web3 development.
