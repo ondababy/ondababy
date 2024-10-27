@@ -38,7 +38,7 @@
 <h2 align="center">💻 My Tech Stack & Tools:</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,mongodb,express,laravel,php,canva,html,css,bootstrap,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,mongodb,express,laravel,php,html,css,bootstrap,git,github,docker,vscode" />
 </p>
 
 ---
