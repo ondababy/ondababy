@@ -1,10 +1,9 @@
-<h1 align="center">🚀 Welcome, I'm Ondababy! 👨‍💻</h1> 
+<h1 align="center">Welcome, I am Adrian Philip Onda</h1> 
+<h3 align="center">Aspiring Software Engineer</h3> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 </p>
-
-
 
 <h2 align="center">⚡ About Me:</h2>
 
@@ -13,7 +12,6 @@
 </p>
 
 - 🌱 **Currently mastering**: MERN Stack and Cybersecurity.
-
 
 <h2 align="center">🌐 Connect with Me:</h2>
 
@@ -32,9 +30,7 @@
   </a>
 </p>
 
-
-
-<h2 align="center">💻 My Tech Stack & Tools:</h2>
+<h2 align="center">💻 Tech Stack & Tools:</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,mongodb,express,laravel,php,html,css,bootstrap,git,github,docker,vscode" />
@@ -65,13 +61,13 @@
 
 <p align="center">
   <a href="https://github.com/ondababy/MERNApp-Project">
-    <img src="https://img.shields.io/badge/Project%201-MERN%20Stack-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MERN%20Stack-red?style=for-the-badge" />
   </a>
   <a href="https://github.com/ondababy/python-project">
-    <img src="https://img.shields.io/badge/Project%202-Python-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge"/>
   </a>
   <a href="https://github.com/ondababy/Laravel-Javascript-System">
-    <img src="https://img.shields.io/badge/Project%203-Laravel-red?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge"/>
   </a>
 
 </p>
