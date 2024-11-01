@@ -1,5 +1,4 @@
 <h1 align="center">Welcome, I am Adrian Philip Onda</h1> 
-<h3 align="center">Aspiring Software Engineer</h3> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
@@ -36,6 +35,7 @@
   <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,mongodb,express,laravel,php,html,css,bootstrap,git,github,docker,vscode" />
 </p>
 
+
 ---
 
 <h2 align="center">⚙️ GitHub Stats:</h2>
@@ -50,7 +50,6 @@
 </div>
 
 
-
 <h2 align="center">🚀 Fun GitHub Achievements:</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ondababy&theme=matrix&margin-w=15&row=1&column=6" alt="GitHub Achievements" />
@@ -58,7 +57,6 @@
 
 
 <h2 align="center">🛠️ My Projects:</h2>
-
 <p align="center">
   <a href="https://github.com/ondababy/MERNApp-Project">
     <img src="https://img.shields.io/badge/MERN%20Stack-red?style=for-the-badge" />
@@ -69,20 +67,12 @@
   <a href="https://github.com/ondababy/Laravel-Javascript-System">
     <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge"/>
   </a>
-
 </p>
 
 <h2 align="center">🔥 Activity Graph:</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ondababy&theme=dracula&bg_color=0d1117&color=ff00ff&line=ffffff&point=ff00ff&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
-<h2 align="center">⚡ Recent GitHub Contributions:</h2>
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=ondababy"/>
-</p>
-
-<h2 align="center"></></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coding%20with%20Passion-FFD700?style=for-the-badge&logo=heart" alt="Coding with Passion" />
