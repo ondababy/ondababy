@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I am Adrian Philip Onda</h1> 
+<h1 align="center">Welcome, I am Adrian Philip Onda!</h1> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
