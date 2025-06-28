@@ -32,22 +32,3 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40"> About Me
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-```python
-class AdrianPhilipOnda:
-    def __init__(self):
-        self.name = "Adrian Philip Onda"
-        self.role = "Full Stack Developer"
-        self.location = "🌏 Paranaque City, Philippines"
-        self.passions = ["coding", "innovation", "problem-solving"]
-        
-    def current_focus(self):
-        return {
-            "🎯": "Building scalable web applications",
-            "🌱": "Mastering MERN Stack & Cybersecurity",
-            "🚀": "Contributing to open-source projects",
-            "💡": "Exploring AI/ML integrations"
-        }
-    
-    def fun_fact(self):
-        return "☕ I turn coffee into code!"
