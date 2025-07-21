@@ -15,22 +15,6 @@
   <img src="https://img.shields.io/github/followers/ondababy?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Followers" />
 </div>
 
-<br/>
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<br/>
-
-- 🎯 **Focus:** Building scalable web applications with modern technologies
-- 🌱 **Currently Learning:** Advanced MERN Stack patterns & Cybersecurity best practices
-- 💡 **Interests:** Cloud Architecture, DevOps, and AI/ML integration
-- 🎓 **Location:** Paranaque City, Metro Manila, Philippines
-- ⚡ **Fun Fact:** I debug with coffee and solve problems in my dreams
-
-<br clear="both"/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -48,13 +32,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
