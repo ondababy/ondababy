@@ -96,11 +96,6 @@ I'm a **Data Analyst** and **Full Stack Developer** passionate about leveraging 
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
 <br/>
 
 <div align="center">
